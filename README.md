@@ -1,5 +1,5 @@
 # WildCircus_WCS_Challenge
-### Challenge
+### Challenge d'Admission à la Wild Code School
 Réaliser le site web de la compagnie “Wild circus”.  
 “Wild Circus” est une compagnie de cirque (fictive) de renommée internationale.  
 La mission est de concevoir et réaliser le site web de présentation de la compagnie "Wild Circus" pour faire grandir encore sa visibilité et sa renommée.  
